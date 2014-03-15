@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//RU" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="stylesheet" media="all" type="text/css" href="style.css" tppabs="style.css">
+<link rel="stylesheet" href="featured_slide.css" tppabs="featured_slide.css" type="text/css"/>
+<link rel="stylesheet" href="kk-text-style.css" type="text/css">
+
+<!--[if lt IE 8]>
+
+<script src="IE8.js" tppabs="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+
+<![endif]-->
+
+<title>АКАДЕМИЯ ТРЕНИНГОВЫХ ТЕХНОЛОГИЙ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Главная страница,АКАДЕМИЯ ТРЕНИНГОВЫХ ТЕХНОЛОГИЙ,Ghbdadfbsd" />
+<meta name="description" content="Главная страница|АКАДЕМИЯ ТРЕНИНГОВЫХ ТЕХНОЛОГИЙ," />
+					
+
+<script type="text/javascript" src="jquery-1.4.1.min.js" tppabs="jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="jquery.jcarousel.pack.js" tppabs="jquery.jcarousel.pack.js"></script>
+<script type="text/javascript" src="jquery.jcarousel.setup.js" tppabs="jquery.jcarousel.setup.js"></script>
+
+
+<script type="text/javascript" async="" src="ga.js" tppabs="ga.js"></script>
+
+<script type="text/javascript" src="jquery.pngFix.pack.js" tppabs="jquery.pngFix.pack.js"></script> 
+<script type="text/javascript" src="vTicker.js" tppabs="vTicker.js"></script>
+<script type="text/javascript" src="vTicker-News.js" tppabs="vTicker-News.js"></script>
+<script type="text/javascript" src="site.js" tppabs="site.js"></script>
+
+
+<script type="text/javascript" src="easypaginate.js" tppabs="easypaginate.js"></script>
+	<script type="text/javascript">
+	
+jQuery(function($){
+	
+	$('ul#items').easyPaginate({
+		step:3
+	});
+	
+});    
+    
+    </script>
+
+
+<script language="JavaScript">
+function showhide(obj)
+{
+	var  obj1=document.getElementById(obj);
+	//alert(obj1.style.display);
+	if (obj1.style.display == 'block')
+	{ obj1.style.display='none'; }
+	else
+	{ obj1.style.display='block';}
+	return(false);
+}
+</script>
+
+
+</head>
+
+<img src="logo.png" align="left">
+
+<body>
+<!-------------------- main wrapper -------------------->
+<div class="main-wrapper">
+
+<!---------------- header ---------------->
+<div class="header"> 
+  <!-- - top part  --->
+<div class="logo-part">
+<div class="logo">
+
+
+<h1>АКАДЕМИЯ ТРЕНИНГОВЫХ ТЕХНОЛОГИЙ</h1>
+<hr />
+
+
+<p> ПСИХОЛОГИЧЕСКОЕ КОНСУЛЬТИРОВАНИЕ, ПСИХОТЕРАПИЯ, КОНСАЛТИНГ И КОУЧИНГ, ТРЕНИНГИ, ОБУЧЕНИЕ, ПОИСК И ПОДБОР ПЕРСОНАЛА</p>
+
+<hr />
+<div class="share42init"></div>
+<script type="text/javascript" src="http://att.org.ua/share42/share42.js"></script>
+
+
+
+</a></div>
+</a>
+<div class="contact-info">
+<div class="contact-div">
+<div class="img-icon"><img src="contact-icon.png" tppabs="templates/images/contact-icon.png" alt="" /></div>
+<div class="contact-no">Наши контакты</div>
+</div>
+<div class="contact-div">
+<div class="img-icon"><img src="phone-icon.png" tppabs="templates/images/phone-icon.png" alt="" /></div>
+<div class="contact-no">Телефон :  +38 (050) 595-59-71</div>
+</div>
+<div class="contact-div">
+<div class="img-icon"><img src="phone-icon.png" tppabs="templates/images/printer.png" alt="" /></div>
+<div class="contact-no">Телефон :   +38 (063) 815-08-88</div>
+</div>
+<div class="contact-div">
+<div class="img-icon"><img src="phone-icon.png" tppabs="templates/images/printer.png" alt="" /></div>
+<div class="contact-no">Телефон :   +38 (050) 866-97-79</div>
+</div>
+<div class="contact-div">
+<a class="cont-btn" href="form.html">Обратная связь</a>
+</div>
+</div>
+</div>
+<!-- - end top part  ---> 
+  
+   
+ <!-- - navigation  --->
+ <div class="navigation">
+	<div style="margin: 0 auto;width: 1000px;">
+<ul class="nav"><li class="page_item"><a href="index.html" title="Главная страница">Главная</a>
+
+</li>
+<li class="page_item"><a href="hr.html" title="HR-Центр">HR-Центр</a>
+</li>
+<li class="page_item"><a href="bus.html" title="Бизнес">Для Бизнеса</a>
+<ul class="need-to-hire"><li class="page_item"><a href="bus1.html" title="Консалтинг и коучинг">Консалтинг и коучинг</a>
+<li class="page_item"><a href="bus2.html" title="Тренинги">Тренинги</a>
+</li>
+</ul>
+</li>
+<li class="page_item"><a href="cons.html" title="Консультации">Консультации</a>
+<ul class="need-to-hire"><li class="page_item"><a href="cons1.html" title="Когда стоит обращаться к специалисту">Когда стоит обращаться к специалисту</a>
+<li class="page_item"><a href="cons2.html" title="Как происходит консультация">Как происходит консультация</a>
+</li>
+<li class="page_item"><a href="cons3.html" title="Мифы о психологии">Мифы о психологии</a>
+</li>
+<li class="page_item"><a href="cons4.html" title="Skype-консультация">Skype-консультация</a>
+</li>
+<li class="page_item"><a href="cons5.html" title="Виды консультирования">Виды консультирования</a>
+</li>
+<li class="page_item"><a href="cons6.html" title="Тестирование">Тестирование</a>
+</li>
+<li class="page_item"><a href="cons7.html" title="Почему стоит обратиться к нам">Почему стоит обратиться к нам</a>
+</li>
+<li class="page_item"><a href="cons8.html" title="Этические принципы деятельности психолога">Этические принципы деятельности психолога</a>
+</li>
+</ul>
+</li>
+<li class="page_item"><a href="ed1.html" title="Обучение">Обучение</a>
+<ul class="need-to-hire"><li class="page_item"><a href="ed1.html" title="Школа НR">Школа НR</a>
+</li>
+<li class="page_item"><a href="ed2.html" title="Школа практикующего психолога">Школа практикующего психолога</a>
+</li>
+<li class="page_item"><a href="ed3.html" title="Школа тренеров">Школа тренеров</a>
+</li>
+<li class="page_item"><a href="ed4.html" title="Школа Рєйки">Школа Рєйки</a>
+</li>
+<li class="page_item"><a href="ed5.html" title="Институт семьи">Институт семьи</a>
+</li>
+<li class="page_item"><a href="web.html" title="Вебинары">Вебинары</a>
+
+</li>
+</ul>
+</li>
+
+<li class="page_item"><a href="prog.html" title="Программы">Программы</a>
+<ul class="need-to-hire"><li class="page_item"><a href="prog1.html" title="Саморазвитие">Саморазвитие</a>
+</li>
+<li class="page_item"><a href="pro2.html" title="Взаимоотношения">Взаимоотношения</a>
+</li>
+<li class="page_item"><a href="prog3.html" title="Для психологов">Для психологов</a>
+</li>
+<li class="page_item"><a href="prog4.html" title="Для женщин">Для женщин</a>
+</li>
+<li class="page_item"><a href="prog5.html" title="Для мужчин">Для мужчин</a>
+</li>
+<li class="page_item"><a href="prog6.html" title="Для семьи">Для семьи</a>
+</li>
+<li class="page_item"><a href="prog7.html" title="Для детей">Для детей</a>
+</li>
+<li class="page_item"><a href="prog8.html" title="Для подростков">Для подростков</a>
+</li> 	 
+<li class="page_item"><a href="prog9.html" title="Для тела">Для тела</a>
+</li>
+<li class="page_item"><a href="prog10.html" title="Для души">Для души</a>
+</li>
+</ul>
+</li>
+<li class="page_item"><a href="ras.html" title="Расписание"> Расписание</a>
+
+<li class="page_item"><a href="com.html" title="Команда">Команда</a>
+
+<li class="page_item"><a href="info.html" title=" Инфо центр"> Инфо центр</a>
+<ul class="need-to-hire"><li class="page_item"><a href="info.html" title="Новости">Новости</a>
+</li>
+<li class="page_item"><a href="info1.html" title="Видео">Видео</a>
+</li>
+<li class="page_item"><a href="info2.html" title="Магазин">Магазин</a>
+</li>
+</ul>
+
+<div class="social-icon2">
+       
+<div class="clearfix"></div>
+      </div>
+      <div class="clearfix"></div>
+   </div>
+  </div>
+    
+  
+  <!-- - navigation  ---> 
+  
+  <!-- - banner area  --->
+<div class="banner123"><img src="banner ban.png" tppabs="images/banner ban.png" alt="" /></div>
+<!-- - end banner area  ---> 
+</div>
+
+<!---------------- end header ---------------->
+
+<!---------------- middle ---------------->
+<!--div style="margin: 0 auto; width:998px;"><img src="/assets/templates/images/banner.png"/></div-->
+<div class="middle"> 
+
+  <!-------- left colm -------->
+  <div class="left-colm">
+    <div class="left-heading">
+Этические принципы деятельности психолога
+
+</div>
+  
+ <!-- Begin content -->
+   <div class="cont"> 
+   
+Все <a href="http://samopoznanie.ru/doneck/" target="_blank">тренинги по психологии в Донецке</a> (Самопознание.ру)
+
+</div>
+</div>
+
+</div>        <!-- End content -->
+
+  <div class="box-shadow"></div>
+    <!-------- end client box -------->
+    
+  </div>
+  <!-------- end left colm --------> 
+  
+ 
+   
+  
+  <!-------- end right colm -------->
+
+
+
+    
+      <div class="clearfix"></div>
+    </div>
+    <div class="footer-right">
+      <div class="social-icon">
+        <div class="clearfix"></div>
+        
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </div>
+</div>
+
+<!---------------- end footer ----------------> 
+
+
+<!---------------- end footer ----------------> 
+
+<!-------------------- end main wrapper -------------------->
+<div class="footer">
+<h3 align="center" style="color:White" "font-family:Lucida Console">АКАДЕМИЯ ТРЕНИНГОВЫХ ТЕХНОЛОГИЙ</h3>
+<HR>
+<h4 align="center" style="color:White"><a href="link1.html" style="color: white">НАШИ ПАРТНЁРЫ</a></h4>
+<h4 align="center" style="color:White"><a href="http://vk.com/club59384298" style="color: white">Мы в VK</a>&nbsp&nbsp&nbsp&nbsp<a href="http://odnoklassniki.ru/cdk/st.cmd/main/st.redirect/%252Fdk%253Fst.cmd%253DaltGroupMain%2526st.groupId%253D52984426332266%2526_prevCmd%253DaltGroupMain%2526tkn%253D3559/_prevCmd/altGroupMain/tkn/3799" style="color: white">Мы в Одноклассниках</a>&nbsp&nbsp&nbsp<a href="https://www.facebook.com/groups/att.org/" style="color: white">Мы в Facebook</a></h4>
+<center><p><font size="4" color="white" face="times new roman">Телефон : +38 (050) 595-59-71 | Телефон : +38 (096) 085-89-17 | Телефон : +38 (063) 387-53-497</p></center>
+
+
+
+</div></body></html>
